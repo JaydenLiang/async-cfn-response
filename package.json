@@ -1,6 +1,6 @@
 {
   "name": "async-cfn-response",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AWS Cloud Formation async response",
   "main": "index.js",
   "scripts": {

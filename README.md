@@ -13,5 +13,5 @@ Please find detailed docs & description here in: [AWS Lambda Function Code](http
 This is an asynchronous call of the **send** function.
 
 ## Copyright & License
-Please see a full license and notice statement here in: [License](./LICENSE) 
+Please see a full license and notice statement here in: [License](./LICENSE), [copyright notice](./NOTICE)
 © Fortinet Technologies. All rights reserved.
