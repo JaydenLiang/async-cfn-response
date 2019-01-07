@@ -1,8 +1,12 @@
 {
   "name": "async-cfn-response",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AWS Cloud Formation async response",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydenliang/async-cfn-response"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
